@@ -1,5 +1,4 @@
 <?php
-
 /*
   Plugin Name: WP Next Plugin
   Description: Simple Plugin shows the direct form submission
